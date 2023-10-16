@@ -1,0 +1,10 @@
+.logo {
+  float: left;
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  content: url(/public/media/img/misc/logocut.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 1;
+}
